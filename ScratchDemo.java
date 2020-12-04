@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 定义总中奖概率，奖品数量越少，中奖率越高
+ * 定义总中奖概率，奖品数量越少，中奖率越低
  * @author lrh
  * @date 2020-12-4
  */
-public class ScratchDemo2 {
+public class ScratchDemo {
 	// 中奖概率
 	private final static double THRESHOLD = 0.1;
 	// 礼品总数
